@@ -1,2 +1,34 @@
 # Lochwynne-University
-Online Multiplayer Python Game with Text Based Battle (system similar to Pokemon)
+Online Multiplayer Python Game with Text Based Battle System (similar to Pokemon)
+- Rodney Nobles
+
+
+# What is Lochwynne University?
+Lochwynne University is an institute created to train young Dretons (those who possess superhuman abilities) in controlling and growing their abilities and to promote a healthy relationship between Nulls (those who dont have any supernatural abilities) and Dretons. 
+
+Users will be able to create a character to battle online against another user or against AI. The users character progression will depend on the outcome of the battle and the character progression will be saved for future battles.
+
+## Contribution Guidelines
+### Contribute
+1. Comment on any issue you want to contribute on
+2. Create a fork 
+3. Commit to your fork with your initial changes
+4. Submit a work-in-progress pull request to discuss
+5. Make changes to your pull request as needed
+6. Once your changes are merged, Celebrate!
+
+### Setup
+Python3 https://www.python.org/downloads/
+Numpy
+PyGame
+Github Desktop (optional)
+VSCode (optional)
+
+### Test
+Pylint
+
+### Coding Standards
+Max Length of line: 80
+Indentation: Tab (4 spaces)
+Spaces: No spaces after last character on line of code
+Naming: variables should follow "underscore_name"
