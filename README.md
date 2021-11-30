@@ -1,6 +1,6 @@
 # Lochwynne-University
 Online Multiplayer Python Game with Text Based Battle System (similar to Pokemon)
-- Rodney Nobles
+: Rodney Nobles
 
 
 ![image](https://user-images.githubusercontent.com/91491844/143837082-c4725ed9-208f-48b2-a473-3bb1ef3c31fc.png)
