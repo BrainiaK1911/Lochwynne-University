@@ -14,7 +14,7 @@ Users will be able to create a character to battle online against another user o
 
 ## Contribution Guidelines
 ### Contribute
-1. Comment on any issue you want to contribute on
+1. Comment on any issue you want to contribute on or head over to discussions to get started https://github.com/BrainiaK1911/Lochwynne-University/discussions
 2. Create a fork 
 3. Commit to your fork with your initial changes
 4. Submit a work-in-progress pull request to discuss
