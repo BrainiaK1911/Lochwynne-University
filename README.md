@@ -4,6 +4,7 @@ Online Multiplayer Python Game with Text Based Battle System (similar to Pokemon
 
 
 ![image](https://user-images.githubusercontent.com/91491844/143837082-c4725ed9-208f-48b2-a473-3bb1ef3c31fc.png)
+![image](https://user-images.githubusercontent.com/91491844/144016604-27fb40a0-b245-4232-afe4-5e34f2d485ec.png)
 
 
 # What is Lochwynne University?
